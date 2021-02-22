@@ -1,0 +1,23 @@
+.header{
+    border: solid;
+    background-color: rgb(15, 161, 228);
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.menu{
+    font-size: 20px;
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+ justify-content: space-evenly;
+   border: solid;
+    background-color: rgb(184, 247, 171);
+    
+}
+.item{
+    font-size: 17px;
+   display: flex;
+   flex-direction: column;
+}
